@@ -78,3 +78,10 @@ The analysis focused on three main areas:
 - **Investigate West region branches** to identify factors contributing to the negative average profit margin and prioritize underperforming branches for operational improvement.
 - **Review expense drivers in East** and identify opportunities to improve cost efficiency, as East recorded the highest total expenses.
 ## Power BI Dashboard
+### Page 1 — Customer & Account Activity
+
+![Customer & Account Activity](1.dashboard-page-1.png)
+
+### Page 2 — Investment & Branch Performance
+
+![Investment & Branch Performance](2.dashboard-page-2.png)
