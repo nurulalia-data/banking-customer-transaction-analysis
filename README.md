@@ -81,11 +81,11 @@ The analysis focused on three main areas:
 
 ### Page 1 — Customer & Account Activity
 
-[Customer & Account Activity](Dashboard/1.dashboard-page-1.png)
+![Customer & Account Activity](Dashboard/1.dashboard-page-1.png)
 
 ### Page 2 — Investment & Branch Performance
 
-[Investment & Branch Performance](Dashboard/2.dashboard-page-2.png)
+![Investment & Branch Performance](Dashboard/2.dashboard-page-2.png)
 
 ### Power BI File
 
